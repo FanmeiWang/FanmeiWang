@@ -25,5 +25,5 @@
  -    Email: emilyfmwang@gmail.com <br>
  
  🚀 Fun fact: <br>
- -    I’m combining my extensive HRM expertise with AI technologies to create innovative solutions for HR challenges!!!
+ -    I’m combining my extensive HRM expertise with AI technologies to create innovative solutions for HR challenges🎉🎉🎉
 
