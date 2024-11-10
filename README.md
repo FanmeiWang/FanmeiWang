@@ -3,7 +3,7 @@
 🔍 Now focusing on AI appliications across various HR domains, leveraging machine learning, deep learning, NLP, and conversational AI to drive data-driven insights, support policy development, and enhance employee engagement through interactive tools. <br>
 📜 Certifications: <br>
     📝 Certified Human Resources Professional (CHRP) - Human Resources Professionals Association ([Oct 2024](https://www.hrpa.ca/)) <br>
-    📝 Generative AI for Software Developers - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/DG9JAHCV5VMD) <br>
+    📝 Generative AI for Software Developers - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/NB2GAB5QD2N7) <br>
     📝 Generative AI for Data Engineers - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/79EC8NT768GR) <br>
     📝 IBM AI Foundations for Business - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/WTZE4SMV2RUC) <br>
     📝 Generative AI for Data Scientists - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/DG9JAHCV5VMD) <br>
