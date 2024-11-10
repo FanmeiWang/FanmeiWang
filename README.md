@@ -1,7 +1,6 @@
 # Hi, I'm @FanmeiWang 👋
-- 📜 Certified Human Resources Professional and Data Analyst.
-- 📊 With 15+ years of experience in teaching and research in Human Resource Management (HRM) at universities and world-renowned research institutions, I specialize in diversity and cultural sensitivity, as well as understanding the experiences of ethnic and racial minorities in HR. 
-- 🤖 Now, I’m focused on applying AI across various HR domains, leveraging machine learning, deep learning, NLP, and conversational AI to drive data-driven insights, inform policy, and enhance employee engagement through interactive tools.
+📜 Certified Human Resources Professional | Analyst with 15+ years of experience in teaching and research in Human Resource Management (HRM) at universities and world-renowned research institutions. 
+🔍 Now focusing on AI appliications across various HR domains, leveraging machine learning, deep learning, NLP, and conversational AI to drive data-driven insights, support policy development, and enhance employee engagement through interactive tools.
 - 🔖 Certifications:
     - Certified Human Resources Professional (CHRP) – HRPA (Oct 2024)
     - Generative AI for Data Scientists Specialization – Coursera/IBM (May 2024)
