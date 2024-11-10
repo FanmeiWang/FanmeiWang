@@ -11,8 +11,8 @@
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
- 💬 Conversational AI (AIDI 1001) <br>
- 💬 Machine Learning Programming (AIDI 1002)<br>
+ 💬 Conversational AI (AIDI 1001) - Ongoing <br>
+ 💬 Machine Learning Programming (AIDI 1002) - Ongoing <br>
      
  👯 **I’m looking to collaborate on:**
  - **AI-driven HR projects**: Aiming to work with AI specialists to apply advanced AI techniques within the HRM field, leveraging my extensive HR expertise to drive innovation.
