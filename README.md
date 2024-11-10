@@ -14,15 +14,16 @@
  💬 Conversational AI (AIDI 1001) <br>
  💬 Machine Learning Programming (AIDI 1002)<br>
      
- 👯 I’m looking to collaborate on 
- - **AI-driven projects in HRM**: I aim to work with AI specialists to apply advanced AI techniques within the HRM field, leveraging my extensive HR expertise to drive innovation.
- - **Developing AI and data analysis tools for HR professionals**: Looking to partner with to design and implement AI-powered and data-driven tools tailored to HR needs.
- - **Research in AI,data analysis HRM**: Interested in collaborative research opportunities to explore the impact of AI and data analytics on HR practices and policies.
- - **AI and data analysis training programs for HR professionals**: I am keen to develop and deliver training programs to equip HR professionals with practical skills in AI and data analysis, empowering them to leverage these technologies effectively in their roles.
+ 👯 **I’m looking to collaborate on:**
+ - **AI-driven HR projects**: Aiming to work with AI specialists to apply advanced AI techniques within the HRM field, leveraging my extensive HR expertise to drive innovation.
+ - **Customize AI and data analysis tools for HR**: Developing AI and data analytics tools designed for HR professionals, offering insights and functionalities beyond standard AI applications.
+ - **Research in AI,data analysis HRM**: Engaging in collaborative research to explore how AI and data analysis can transform HR practices and policies.
+ - **AI and data analysis training programs for HR professionals**: Delivering specicialized training on AI and analytics for HR, equipping professionals with practical, HR-focused AI skills.
 
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- ⚡ Fun fact: ...
-     - I’m combining my deep HRM expertise with AI technologies to create innovative solutions for HR challenges!
+ 📫 How to reach me: <br>
+ -    LinkedIn: https://www.linkedin.com/in/fanmeiwang/
+ -    Email: emilyfmwang@gmail.com <br>
+ 
+ 🚀 Fun fact: <br>
+ -    I’m combining my extensive HRM expertise with AI technologies to create innovative solutions for HR challenges!!!
 
