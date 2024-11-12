@@ -8,6 +8,8 @@
 -   **Generative AI for Data Engineers** - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/79EC8NT768GR) <br>
 -   **IBM AI Foundations for Business** - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/WTZE4SMV2RUC) <br>
 -   **Generative AI for Data Scientists** - Coursera/IBM (May 2024) [View Certificate](https://www.coursera.org/account/accomplishments/specialization/DG9JAHCV5VMD) <br>
+-   **Preview Complete Guide to Power BI for Data Analysts by Microsoft Press** - LinkedIn (Nov 2024) .[View Certificate](https://www.linkedin.com/learning/certificates/ceb2687ff8a391384a357658f7283583a6778c43d78a9e1d33da5cdcea80ebe6) <br>
+
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
