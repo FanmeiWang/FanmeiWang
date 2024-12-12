@@ -12,7 +12,6 @@
  💬 **Artificial Intelligence Algorithms and Mathematics** (AIDI 1000) - Upcoming <br>
  💬 **Machine Learning Frameworks** (AIDI 1003) - Upcoming <br>
  💬 **Issues and Changes in Artifical Intelligence** (AIDI 1003) - Upcoming <br>
- 💬 **Machine Learning Frameworks** (AIDI 1004) - Upcoming <br>
  💬 **Artificial Intelligence for Business Decision Making** (AIDI 1005) - Upcoming <br>
  💬 **Data Manipulation Techniques** (BDAT 1000) - Upcoming <br>
  💬 **Artificial Intelligence Infrastructure and Architecture** (AIDI 1006) - Upcoming <br>
