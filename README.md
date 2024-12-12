@@ -9,6 +9,19 @@
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
  💬 Conversational AI (AIDI 1001) - Complete <br>
  💬 Machine Learning Programming (AIDI 1002) - Ongoing <br>
+ 💬 Artificial Intelligence Algorithms and Mathematics (AIDI 1000) - Upcoming <br>
+ 💬 Machine Learning Frameworks (AIDI 1003) - Upcoming <br>
+ 💬 Issues and Changes in Artifical Intelligence (AIDI 1003) - Upcoming <br>
+ 💬 Machine Learning Frameworks (AIDI 1004) - Upcoming <br>
+ 💬 Artificial Intelligence for Business Decision Making (AIDI 1005) - Upcoming <br>
+ 💬 Data Manipulation Techniques (BDAT 1000) - Upcoming <br>
+ 💬 Artificial Intelligence Infrastructure and Architecture (AIDI 1006) - Upcoming <br>
+ 💬 Vision Systems (AIDI 1007) - Upcoming <br>
+ 💬 Reinforcement Learning Programming (AIDI 1008) - Upcoming <br>
+ 💬 Neural Networks (AIDI 1009) - Upcoming <br>
+ 💬 Emerging Artificial Intelligence Technogologies (AIDI 1010) - Upcoming <br>
+ 💬 Artificial Intelligence Project (AIDI 1011) - Upcoming <br>
+ 💬 Artificial Intelligence Robotics and Automation (AIDI 1012) - Upcoming <br>
      
  👯 **I’m looking to collaborate on:**
  - **AI-driven HR projects**: Aiming to work with AI specialists to apply advanced AI techniques within the HRM field, leveraging my extensive HR expertise to drive innovation.
