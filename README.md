@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
- 💬 Conversational AI (AIDI 1001) - Complete [Final project: Understanding IT Employee Turnover with LLM-Driven Text Analysis (100%) <br>
+ 💬 Conversational AI (AIDI 1001) - Complete [Final project: Understanding IT Employee Turnover with LLM-Driven Text Analysis (100%)] <br>
  💬 Machine Learning Programming (AIDI 1002) - Ongoing <br>
  💬 Artificial Intelligence Algorithms and Mathematics (AIDI 1000) - Upcoming <br>
  💬 Machine Learning Frameworks (AIDI 1003) - Upcoming <br>
