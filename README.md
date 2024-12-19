@@ -7,8 +7,8 @@
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
- 💬 **Conversational AI** (AIDI 1001) - Complete [Final project: Understanding IT Employee Turnover with LLM-Driven Text Analysis (100%)] <br>
- 💬 **Machine Learning Programming** (AIDI 1002) - Complete [Final project: Reproduced the Logistic Regression (LR) model on the IBM dataset using the configurations outlined in the paper titled with "Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art"].<br>
+ 💬 **Conversational AI** (AIDI 1001) - Complete [Overall GPA: 4.0/4.0] <br>
+ 💬 **Machine Learning Programming** (AIDI 1002) - Complete [Overall GPA: 4.0/4.0].<br>
  💬 **Artificial Intelligence Algorithms and Mathematics** (AIDI 1000) - Ongoing <br>
  💬 **Machine Learning Frameworks** (AIDI 1003) - Ongoing <br>
  💬 **Issues and Changes in Artifical Intelligence** (AIDI 1003) - Upcoming <br>
