@@ -7,20 +7,20 @@
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
- 💬 **Conversational AI** (AIDI 1001) - Complete [Overall GPA: 4.0/4.0] <br>
- 💬 **Machine Learning Programming** (AIDI 1002) - Complete [Overall GPA: 4.0/4.0].<br>
- 💬 **Artificial Intelligence Algorithms and Mathematics** (AIDI 1000) - Ongoing <br>
- 💬 **Machine Learning Frameworks** (AIDI 1003) - Ongoing <br>
- 💬 Issues and Changes in Artifical Intelligence (AIDI 1003) - Upcoming <br>
- 💬 Artificial Intelligence for Business Decision Making (AIDI 1005) - Upcoming <br>
- 💬 Data Manipulation Techniques (BDAT 1000) - Upcoming <br>
- 💬 Artificial Intelligence Infrastructure and Architecture (AIDI 1006) - Upcoming <br>
- 💬 Vision Systems (AIDI 1007) - Upcoming <br>
- 💬 Reinforcement Learning Programming (AIDI 1008) - Upcoming <br>
- 💬 Neural Networks (AIDI 1009) - Upcoming <br>
- 💬 Emerging Artificial Intelligence Technogologies (AIDI 1010) - Upcoming <br>
- 💬 Artificial Intelligence Project (AIDI 1011) - Upcoming <br>
- 💬 Artificial Intelligence Robotics and Automation (AIDI 1012) - Upcoming <br>
+ 💬 **Conversational AI** - Complete [Overall GPA: 4.0/4.0] <br>
+ 💬 **Machine Learning Programming** - Complete [Overall GPA: 4.0/4.0].<br>
+ 💬 **Artificial Intelligence Algorithms and Mathematics** - Ongoing <br>
+ 💬 **Machine Learning Frameworks** - Ongoing <br>
+ 💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
+ 💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
+ 💬 Data Manipulation Techniques - Upcoming <br>
+ 💬 Artificial Intelligence Infrastructure and Architecture - Upcoming <br>
+ 💬 Vision Systems - Upcoming <br>
+ 💬 Reinforcement Learning Programming - Upcoming <br>
+ 💬 Neural Networks - Upcoming <br>
+ 💬 Emerging Artificial Intelligence Technogologies - Upcoming <br>
+ 💬 Artificial Intelligence Project - Upcoming <br>
+ 💬 Artificial Intelligence Robotics and Automation - Upcoming <br>
      
  👯 **I’m looking to collaborate on:**
  - **AI-driven HR projects**: Aiming to work with AI specialists to apply advanced AI techniques within the HRM field, leveraging my extensive HR expertise to drive innovation.
