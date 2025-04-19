@@ -10,7 +10,7 @@
  💬 **Conversational AI** - Complete [Overall GPA: 4.0/4.0] <br>
  💬 **Machine Learning Programming** - Complete [Overall GPA: 4.0/4.0].<br>
  💬 **Artificial Intelligence Algorithms and Mathematics** - Ongoing <br>
- 💬 **Machine Learning Frameworks** - Ongoing <br>
+ 💬 **Machine Learning Frameworks** - Complete [Overall GPA: 4.0/4.0] <br>
  💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
  💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
  💬 Data Manipulation Techniques - Upcoming <br>
