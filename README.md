@@ -11,8 +11,8 @@
  💬 **Machine Learning Programming** - Complete [Overall Performance: 86% (GPA: 4.0/4.0) ].<br>
  💬 **Artificial Intelligence Algorithms and Mathematics** - [Overall Performance: 92% (GPA: 4.0/4.0)] <br>
  💬 **Machine Learning Frameworks** - Complete [Overall Performance: 92% (GPA: 4.0/4.0)] <br>
- 💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
- 💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
+ 💬 **Issues and Changes in Artifical Intelligence** - Ongoing <br>
+ 💬 **Artificial Intelligence for Business Decision Making** - Ongoing <br>
  💬 Data Manipulation Techniques - Upcoming <br>
  💬 Artificial Intelligence Infrastructure and Architecture - Upcoming <br>
  💬 Vision Systems - Upcoming <br>
