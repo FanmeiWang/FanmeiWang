@@ -9,7 +9,7 @@
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
  💬 **Conversational AI** - Complete [Overall GPA: 4.0/4.0] <br>
  💬 **Machine Learning Programming** - Complete [Overall GPA: 4.0/4.0].<br>
- 💬 **Artificial Intelligence Algorithms and Mathematics** - Ongoing <br>
+ 💬 **Artificial Intelligence Algorithms and Mathematics** - [Overall GPA: 4.0/4.0] <br>
  💬 **Machine Learning Frameworks** - Complete [Overall GPA: 4.0/4.0] <br>
  💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
  💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
