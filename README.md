@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-00CED1?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/SAS-0084A3?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
+  <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 📜 **Certifications**: <br>
