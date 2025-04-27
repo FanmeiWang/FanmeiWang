@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet" alt="github-pro-badge" />
+</p>
 # Hi, I'm @FanmeiWang 👋
 🧑‍💼 PhD | Certified Human Resources Professional | Analyst with 15+ years of experience in teaching and research in Human Resource Management (HRM) at universities and world-renowned research institutions. <br>
 🔍 Now focusing on AI appliications across various HR domains, leveraging machine learning, deep learning, NLP, and conversational AI to drive data-driven insights, support policy development, and enhance employee engagement through interactive tools. <br>
