@@ -22,10 +22,10 @@
 
 🌱 I’m currently learning <br>
  -   **Post Graduate Certificate in Artificial Intelligence - Architecture, Design, and Implementationat** at Georgian College ([View Program](https://cat.georgiancollege.ca/programs/aidi/)) <br>
- 💬 **Conversational AI** - [93% (GPA: 4.0/4.0) <br>
- 💬 **Machine Learning Programming** - [86% (GPA: 4.0/4.0) ].<br>
- 💬 **Artificial Intelligence Algorithms and Mathematics** - [92% (GPA: 4.0/4.0)] <br>
- 💬 **Machine Learning Frameworks** - Complete [95% (GPA: 4.0/4.0)] <br>
+ 💬 **Conversational AI** - 93% (GPA: 4.0/4.0) <br>
+ 💬 **Machine Learning Programming** - 86% (GPA: 4.0/4.0) .<br>
+ 💬 **Artificial Intelligence Algorithms and Mathematics** - 92% (GPA: 4.0/4.0) <br>
+ 💬 **Machine Learning Frameworks** - 95% (GPA: 4.0/4.0) <br>
  💬 **Issues and Changes in Artifical Intelligence** - Ongoing <br>
  💬 **Artificial Intelligence for Business Decision Making** - Ongoing <br>
  💬 Data Manipulation Techniques - Upcoming <br>
