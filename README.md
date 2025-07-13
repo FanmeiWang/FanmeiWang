@@ -26,8 +26,8 @@
  💬 **Machine Learning Programming** - 86% (GPA: 4.0/4.0) .<br>
  💬 **Artificial Intelligence Algorithms and Mathematics** - 92% (GPA: 4.0/4.0) <br>
  💬 **Machine Learning Frameworks** - 95% (GPA: 4.0/4.0) <br>
- 💬 **Issues and Changes in Artifical Intelligence** - Ongoing <br>
- 💬 **Artificial Intelligence for Business Decision Making** - Ongoing <br>
+ 💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
+ 💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
  💬 Data Manipulation Techniques - Upcoming <br>
  💬 Artificial Intelligence Infrastructure and Architecture - Upcoming <br>
  💬 Vision Systems - Upcoming <br>
