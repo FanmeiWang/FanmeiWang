@@ -6,7 +6,7 @@
 # Hi, I'm @FanmeiWang 👋
 🧑‍💼 PhD | Certified Human Resources Professional | Analyst with 15+ years of experience in teaching and research in Human Resource Management (HRM) at universities and world-renowned research institutions. <br>
 🔍 Now focusing on AI appliications across various HR domains, leveraging machine learning, deep learning, NLP, and conversational AI to drive data-driven insights, support policy development, and enhance employee engagement through interactive tools. <br>
-🧑‍💼 Led the alpha-stage build of a Python / Flask prototype for an AI-powered public-service language-learning hub, translating stakeholder vision into a working app and preparing it for the 2025 Public Service Data/AI Challenge.
+🧑‍💼 Led the alpha-stage build of a Python/Flask prototype for an AI-powered public-service language-learning hub, translating stakeholder vision into a working app and preparing it for the 2025 Public Service Data/AI Challenge.
 
 
 <p align="center">
