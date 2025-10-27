@@ -29,8 +29,8 @@
  💬 **Machine Learning Frameworks** - 95% (GPA: 4.0/4.0) <br>
  💬 Issues and Changes in Artifical Intelligence - Upcoming <br>
  💬 Artificial Intelligence for Business Decision Making - Upcoming <br>
- 💬 Data Manipulation Techniques - Upcoming <br>
- 💬 Artificial Intelligence Infrastructure and Architecture - Upcoming <br>
+ 💬 **Data Manipulation Techniques** - Ongoing <br>
+ 💬 **Artificial Intelligence Infrastructure and Architecture** - Ongoing <br>
  💬 Vision Systems - Upcoming <br>
  💬 Reinforcement Learning Programming - Upcoming <br>
  💬 Neural Networks - Upcoming <br>
